@@ -8,7 +8,7 @@ i am a IT Infrastructure based and learn to be ..
 
 *   🌍  I'm based in Indonesia
 *   🖥️  See my portfolio at [Medium](http://medium.com/@myside)
-*   🧠  I'm learning Devops
+*   🧠  learning what i want
 
 ### Skills 
 <p align="left">
